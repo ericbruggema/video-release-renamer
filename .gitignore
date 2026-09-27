@@ -1,0 +1,13 @@
+# .NET build output
+dotnet/RenameMovies/bin/
+dotnet/RenameMovies/obj/
+dotnet/RenameMovies/publish/
+
+# C build output
+c/*.exe
+c/*.obj
+c/*.pdb
+
+# Python
+__pycache__/
+*.pyc
